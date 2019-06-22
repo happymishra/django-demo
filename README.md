@@ -145,3 +145,8 @@ Deactivate Virtual Environment
 ```python
     exit
 ```
+
+Start Django Shell
+```python
+python manage.py shell
+```
